@@ -2,7 +2,7 @@
     width: 500px;
     height: 600px;
     background-color: #4f0d00;
-    padding: 1px;
+    overflow: hidden;
 }
 .frame {
     border: solid black 50px;
